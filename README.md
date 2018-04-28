@@ -67,7 +67,7 @@ java src/com/g8/tp2/client/SouthPoleClient 127.0.0.1:29
 * [Java 9](http://www.dropwizard.io/1.0.2/docs/) - Le langage utilisé
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE utilisé
 
-## Autheurs
+## Auteurs
 
 * **Guillaume Haerinck** 
 * **Azis Tekaya**
